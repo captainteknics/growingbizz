@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 html{
-	background:url(Images/Achtergrond) no-repeat center top;
+	background:url(Images/GrowingBizz) no-repeat center top;
 }
 
 #container
@@ -207,6 +207,6 @@ h1{
 }
 
 .groen{
-	color:#6f9137;
+	color:#FFCC57;
 	
 }
