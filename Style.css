@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 html{
-	background:url(Images/GrowingBizz.png) ;
+	background-attachment: :url(Images/GrowingBizz.png) ;
 }
 
 #container
