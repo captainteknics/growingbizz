@@ -1,0 +1,212 @@
+@charset "UTF-8";
+/* CSS Document */
+html{
+	background:url(Images/Achtergrond) no-repeat center top;
+}
+
+#container
+{
+	width:1031px;
+	margin:0px auto;
+}
+
+p{
+	font-family:"Myriad Pro", Verdana, "Times New Roman";
+	font-size:14px;
+	color:#494842;
+	margin:0px;
+	text-align:left;
+	line-height:17px;
+}
+
+h1{
+	font-family:"Myriad Pro", Verdana, "Times New Roman";
+	font-size:13px;
+	color:#494842;
+	margin:0px;
+	text-align:left;
+	line-height:17px;
+	font-weight:500;
+}
+
+#Logo
+{
+	width:470px;
+	height:167px;
+	margin:3px 267px 101px 3px;
+	float:left;
+}
+
+#Icons
+{
+	width:151px;
+	height:65px;
+	margin:76px 0px 0px 0px;
+	float:left;
+}
+#TwitterIcon
+{
+	width:40px;
+	height:45px;
+	margin:12px 0px 0px 15px;
+	float:left;
+}
+#TwitterIcon .content
+{
+	padding:8px 5px 8px 6px;
+}
+#LinkedInIcon
+{
+	width:40px;
+	height:45px;
+	margin:12px 0px 0px 0px;
+	float:left;
+}
+#LinkedInIcon .content
+{
+	padding:8px 5px 8px 6px;
+}
+#EmailIcon
+{
+	width:40px;
+	height:45px;
+	margin:12px 0px 0px 0px;
+	float:left;
+}
+#EmailIcon .content
+{
+	padding:8px 5px 8px 6px;
+}
+
+#Informatie
+{
+	width:550px;
+	height:457px;
+	margin:0px 0px 0px 3px;
+	float:left;
+}
+#Tekst
+{
+	width:495px;
+	height:315px;
+	margin:38px 0px 24px 28px;
+	float:left;	
+}
+#Adres
+{
+	width:210px;
+	height:55px;
+	margin:0px 0px 0px 28px;
+	float:left;
+}
+#PME
+{
+	width:19px;
+	height:55px;
+	margin:0px;
+	float:left;
+}
+#Telefoonnummers
+{
+	width:162px;
+	height:55px;
+	margin:0px;
+	float:left;
+}
+
+#Bullit01
+{
+	width:200px;
+	height:25px;
+	margin:35px 0px 12px 230px;
+	float:left;
+}
+
+#Bullit02
+{
+	width:165px;
+	height:25px;
+	margin:0px 0px 12px 275px;
+	float:left;
+}
+
+#Bullit03
+{
+	width:170px;
+	height:25px;
+	margin:0px 0px 12px 300px;
+	float:left;
+}
+
+#Bullit04
+{
+	width:140px;
+	height:25px;
+	margin:0px 0px 12px 314px;
+	float:left;
+}
+
+#Bullit05
+{
+	width:100px;
+	height:25px;
+	margin:0px 0px 12px 330px;
+	float:left;
+}
+
+#Bullit06
+{
+	width:90px;
+	height:25px;
+	margin:0px 0px 12px 335px;
+	float:left;	
+}
+
+#Bullit07
+{
+	width:125px;
+	height:25px;
+	margin:0px 0px 12px 330px;
+	float:left;	
+}
+
+#Bullit08
+{
+	width:160px;
+	height:25px;
+	margin:0px 0px 12px 314px;
+	float:left;	
+}
+
+#Bullit09
+{
+	width:170px;
+	height:25px;
+	margin:0px 0px 12px 300px;
+	float:left;
+}
+
+#Bullit10
+{
+	width:190px;
+	height:25px;
+	margin:0px 0px 12px 275px;
+	float:left;	
+}
+
+#Bullit11
+{
+	width:225px;
+	height:25px;
+	margin:0px 0px 0px 240px;
+	float:left;	
+}
+
+.reset{
+	clear:both;
+}
+
+.groen{
+	color:#6f9137;
+	
+}
