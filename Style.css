@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 html{
-	background-image :url(Images/GrowingBizz.png) ;
+	background:url(Images/GrowingBizz.png) ;
 }
 
 #container
@@ -12,7 +12,7 @@ html{
 
 p{
 	font-family:"Myriad Pro", Verdana, "Times New Roman";
-	font-size:18px;
+	font-size:14px;
 	color:#000000;
 	margin:0px;
 	text-align:left;
@@ -21,8 +21,8 @@ p{
 
 h1{
 	font-family:"Myriad Pro", Verdana, "Times New Roman";
-	font-size:20px;
-	color:#000;
+	font-size:13px;
+	color:#494842;
 	margin:0px;
 	text-align:left;
 	line-height:17px;
@@ -31,8 +31,8 @@ h1{
 
 #Logo
 {
-	width:150px;
-	height:150px;
+	width:470px;
+	height:167px;
 	margin:3px 267px 101px 3px;
 	float:left;
 }
@@ -73,32 +73,6 @@ h1{
 	margin:12px 0px 0px 0px;
 	float:left;
 }
-
-#WhatsappIcon
-{
-	width:40px;
-	height:45px;
-	margin:12px 0px 0px 0px;
-	float:left;
-}
-#WhatsappInIcon .content
-{
-	padding:8px 5px 8px 6px;
-}
-
-#InstagramIcon
-{
-	width:40px;
-	height:45px;
-	margin:12px 0px 0px 0px;
-	float:left;
-}
-
-#InstagramInIcon .content
-{
-	padding:8px 5px 8px 6px;
-}
-
 #EmailIcon .content
 {
 	padding:8px 5px 8px 6px;
